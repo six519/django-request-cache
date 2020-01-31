@@ -20,7 +20,7 @@ setup(
     author='Christian Kreuzberger',
     author_email='ckreuzberger@anexia-it.com',
     install_requires=[
-        "django>=1.8,<2.1",
+        "django>=1.8",
         "django_userforeignkey"
     ],
     classifiers=[
